@@ -1,7 +1,7 @@
 # E NOTEBOOK management - (Create React App).
 
-[home page](./public/Screenshot_16.png)
-[Recipe description page](./public/Screenshot_17.png)
+![home page](./public/Screenshot_16.png)
+![Recipe description page](./public/Screenshot_17.png)
 
 ## Available Script
 
